@@ -1,0 +1,23 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "main": "blog.js",
+  "scripts": {
+    "dev": "node --watch blog.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoSalicandro/express-blog-intro.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoSalicandro/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/FernandoSalicandro/express-blog-intro#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
